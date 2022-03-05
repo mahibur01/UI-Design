@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="./php_banner.jpg?raw=true" alt="re-frame logo"></a></p>
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="./ui_banner.jpg?raw=true" alt="re-frame logo"></a></p>
 
 # My UI Design Home
 
